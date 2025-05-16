@@ -1,11 +1,10 @@
-## Olá,sou Ramon Brandão desenvolvedor Full Stack.👋
-<p align="center">Mais que sistemas, lembranças de uma solução Full Stack</p>
-
+## Olá, sou Ramon Brandão desenvolvedor Full Stack.👋
 <p align="center">
   <a href="https://github.com/Ramon-24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=30&color=00C2A8&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+c%C3%B3digo+com+criatividade+afiada ✨;Bem-vindo+ao+meu+GitHub+!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Ramon-24">

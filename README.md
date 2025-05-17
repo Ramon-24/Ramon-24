@@ -11,9 +11,10 @@
     <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Ramon-24">
+  <!--<a href="https://github.com/Ramon-24">
     <img alt="Principais Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-24&layout=compact&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false"/>
   </a>
+  -->
 </p>
 
 <br>

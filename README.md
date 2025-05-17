@@ -13,12 +13,12 @@
     <img alt="Principais Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-24&layout=compact&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false"/>
   </a>
 </p>
-
-
+<br>
+<p align="center"> <h3>Linguagens que tenho experiência</h3></p>
 <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat_quare&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-quare&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img
 src="https://img.shields.io/badge/Dart-0175C2?style=flat-quare&logo=dart&logoColor=white " /></p>
-
-
+<br>
+<p align="center"> <h3>Informações de contado</h3></p>
 <p align="center"> <a href="https://www.linkedin.com/in/ramonbrandao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Ramon-24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a> <a href="mailto:ramongomesbs24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> </p>
 
 

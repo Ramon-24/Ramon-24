@@ -32,6 +32,35 @@
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-quare&logo=dart&logoColor=white" />
 </p>
 
+
+
+
+
+
+
+<!--
+<h3> Download do meu currículo </h3>
+<p align="center">
+    <a href="https://github.com/Ramon24/Ramon24/raw/main/curriculo.pdf" download>
+  <img src="https://img.shields.io/badge/Download%20curr%C3%ADculo-CC2A41?style=flat-quare&logo=download&logoColor=white" alt="Download Currículo">
+</a>
+
+
+
+<a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
+  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
+</a>
+
+</p>-->
+
+
+
+
+
+
+
+
+
 <p align="center"> <h3>Informações de contado</h3></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ramonbrandao" target="_blank">
@@ -49,6 +78,15 @@
   <a href="https://seu-portfolio.com" target="_black">
     <img src="https://img.shields.io/badge/Portfólio-blue?style=flat-quare" alt="Portfólio" />
   </a>
+
+
+
+  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
+  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
+</a>
 </p>
+
+
+
 
 

@@ -36,20 +36,25 @@
 <p align= "center">Desenvolvedor Full Stack | Criando soluções web, mobile e de automação. </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ramonbrandao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"" alt="Linkedin" />
   </a>
   
   <a href="https://github.com/Ramon-24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="Github" />
   </a> 
   
   <a href="mailto:ramongomesbs24@gmail.com" target="_black">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   
   <a href="https://seu-portfolio.com" target="_black">
-    <img src="https://img.shields.io/badge/Portfólio-blue?style=flat-quare" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-blue?style=for-the-badge" alt="Portfólio" />
   </a>
+
+  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
+  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
+  </a>
+
 </p>
 
 <br>

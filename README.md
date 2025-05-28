@@ -1,5 +1,4 @@
-## Olá, sou Ramon Brandão desenvolvedor Full Stack.👋
-
+## 👋 Olá, sou Ramon Brandão desenvolvedor Full Stack.
 <p align="center">
   <a href="https://github.com/Ramon-24">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
@@ -17,8 +16,8 @@
   -->
 </p>
 
-<br>
 
+<!--
 <p align="center"> <h3>Linguagens de Desenvolvimento</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-quare" />
@@ -31,37 +30,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-quare&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-quare&logo=dart&logoColor=white" />
 </p>
+-->
 
 
-
-
-
-
-
-<!--
-<h3> Download do meu currículo </h3>
-<p align="center">
-    <a href="https://github.com/Ramon24/Ramon24/raw/main/curriculo.pdf" download>
-  <img src="https://img.shields.io/badge/Download%20curr%C3%ADculo-CC2A41?style=flat-quare&logo=download&logoColor=white" alt="Download Currículo">
-</a>
-
-
-
-<a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
-  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
-</a>
-
-</p>-->
-
-
-
-
-
-
-
-
-
-<p align="center"> <h3>Informações de contado</h3></p>
+<p align= "center">Desenvolvedor Full Stack | Criando soluções web, mobile e de automação. </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ramonbrandao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Linkedin" />
@@ -78,15 +50,22 @@
   <a href="https://seu-portfolio.com" target="_black">
     <img src="https://img.shields.io/badge/Portfólio-blue?style=flat-quare" alt="Portfólio" />
   </a>
-
-
-
-  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
-  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
-</a>
 </p>
 
+<br>
 
+<h2>Linguagens de Desenvolvimento</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-quare" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-quare" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-quare&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=flat-quare&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-quare&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat-quare&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-quare&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-quare&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-quare&logo=dart&logoColor=white" />
+</p>
 
 
 

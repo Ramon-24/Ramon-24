@@ -22,7 +22,24 @@
 
 
 
+---
+
+
+
 <br>
+
+
+
+## 🧠 Sobre mim
+
+Sou Ramon Brandão, desenvolvedor Full Stack com experiência em web, mobile e automação. Gosto de criar soluções completas, do back-end à interface, sempre buscando aprender mais e colaborar com o design mesmo sem formação na área. Estou sempre explorando novas ferramentas e aprimorando meus projetos com foco em funcionalidade, organização e usabilidade.
+
+
+<br>
+
+
+---
+
 
 
 

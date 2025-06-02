@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Portfólio-blue?style=for-the-badge" alt="Portfólio" />
   </a>
 
-  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/curriculo.pdf" download>
+  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/Currículo Ramon Brandão — Desenvolvedor Full Stack_20250602_184344_0000.pdf" download>
   <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
   </a>
 

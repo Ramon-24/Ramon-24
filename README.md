@@ -22,7 +22,7 @@
 
 
 
-
+<br>
 
 
 
@@ -38,9 +38,9 @@
 
 <p align="center">
   <a href="https://github.com/Ramon-24">
-    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true"/>
+    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="170"/>
 
-  <img src="https://streak-stats.demolab.com?user=Ramon-24&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&border_color=1B67A4"/>
+  <img src="https://streak-stats.demolab.com?user=Ramon-24&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&border_color=1B67A4" height="170"/>
 
     
   </a>
@@ -56,54 +56,6 @@
 
 
 
-
-
-
-
-
-<p align="center">
-  <a href="https://github.com/Ramon-24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ramon-24">
-    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true"/>
-  </a>
-  &nbsp;
-  <!--<a href="https://github.com/Ramon-24">
-    <img alt="Principais Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-24&layout=compact&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false"/>
-  </a>
-  -->
-</p>
-
-
-
-
-<p align= "center">Desenvolvedor Full Stack | Criando soluções web, mobile e de automação. </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramonbrandao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"" alt="Linkedin" />
-  </a>
-  
-  <a href="https://github.com/Ramon-24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="Github" />
-  </a> 
-  
-  <a href="mailto:ramongomesbs24@gmail.com" target="_black">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  
-  <a href="https://seu-portfolio.com" target="_black">
-    <img src="https://img.shields.io/badge/Portfólio-blue?style=for-the-badge" alt="Portfólio" />
-  </a>
-
-  <a href="https://github.com/Ramon-24/Ramon-24/raw/main/Currículo Ramon Brandão — Desenvolvedor Full Stack_20250602_184344_0000.pdf" download>
-  <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-CC2A41?style=for-the-badge&logo=download&logoColor=white" alt="Baixar Currículo">
-  </a>
-
-</p>
 
 <br>
 

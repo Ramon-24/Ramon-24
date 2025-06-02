@@ -23,6 +23,44 @@
 
 
 
+
+
+
+
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <a href="https://github.com/Ramon-24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ramon-24">
+    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true"/>
+
+  <img src="https://streak-stats.demolab.com?user=Ramon-24&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&border_color=1B67A4"/>
+
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/Ramon-24">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>

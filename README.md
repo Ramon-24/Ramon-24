@@ -1,6 +1,45 @@
 <h1 align="center">👨‍💻 Ramon Brandão</h1>
-<p align="center">Desenvolvedor Full Stack | Criando soluções web, mobile e de automação</p>
 
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Ramon-24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
+  </a>
+</p>
+
+<p align="center">
+<p align="center">
+  <a href="https://github.com/Ramon-24">
+    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="150"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ramon-24">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ramon-24&theme=custom&border_radius=5&dates=FFFFFF&background=0A192F&ring=1B67A4&fire=1B67A4&currStreakLabel=1B67A4&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=1B67A4&border_color=1B67A4" height="150"/>
+  </a>
+</p>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">Desenvolvedor Full Stack | Criando soluções web, mobile e de automação</p>
 <p align="center">
   <a href="https://github.com/Ramon-24">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -45,26 +84,7 @@ Sou Ramon Brandão, desenvolvedor Full Stack com experiência em web, mobile e a
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <a href="https://github.com/Ramon-24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=2000&color=1B67A4&center=true&vCenter=true&width=850&lines=Mais+que+sistemas,+lembran%C3%A7as+de+uma+solu%C3%A7%C3%A3o+Full+Stack."/>
-  </a>
-</p>
 
-<p align="center">
-<p align="center">
-  <a href="https://github.com/Ramon-24">
-    <img alt="Estatísticas do GitHub de Ramon Brandão" src="https://github-readme-stats.vercel.app/api?username=Ramon-24&show_icons=true&bg_color=0A192F&title_color=1B67A4&text_color=FFFFFF&icon_color=1B67A4&border_color=1B67A4&hide_border=false&count_private=true" height="170"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ramon-24">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ramon-24&theme=custom&border_radius=5&dates=FFFFFF&background=0A192F&ring=1B67A4&fire=1B67A4&currStreakLabel=1B67A4&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=1B67A4&border_color=1B67A4" height="170"/>
-  </a>
-</p>
-
-</p>
 
 
 
